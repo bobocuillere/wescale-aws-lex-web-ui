@@ -3,6 +3,7 @@
 # Install npm packages
 npm install
 
+echo 'lol'
 # Change directory to lex-web-ui
 cd lex-web-ui
 
